@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25276'
     url: http://www.gutenberg.org/2009/agents/25276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23102#This-World-Must-Die-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
